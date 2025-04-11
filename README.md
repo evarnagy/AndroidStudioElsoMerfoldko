@@ -1,0 +1,1 @@
+# 	Kérdőív kitöltő alkalmazás
